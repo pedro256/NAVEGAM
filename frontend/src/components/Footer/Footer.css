@@ -1,0 +1,33 @@
+.footer{
+    border-top:20px solid #00a3a3;
+    background-color: #2b3454;
+    padding-top: 5rem;
+    padding-bottom: 5rem;
+    color: #FFFFFF;
+}
+.content-footer{
+    margin-bottom: 5rem;
+}
+.logo-footer{
+    width: 320px;
+    height: 120px;
+}
+.copyright{
+    display: flex;
+    justify-content: center;
+}
+.list-footer{
+    text-align: left;
+}
+.list-footer li{
+    padding:8px
+}
+.title{
+    font-size: x-large;
+}
+.options img{
+    margin-right: 16px;
+    margin-left: 16px;
+    width: 50px;
+    height: 30px;
+}

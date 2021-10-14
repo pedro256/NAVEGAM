@@ -1,0 +1,15 @@
+.logo-header{
+    width: 160px;
+    height: 60px;
+}
+.navItem{
+    padding-left: 5rem;
+    color:'#FFFFFF';
+    font-size: 18px;
+}
+.mnavbar{
+    background-color: #2b3454;
+}
+.profile-dropdown{
+    align-items: center;
+}
