@@ -9,6 +9,7 @@
 }
 .mnavbar{
     background-color: #2b3454;
+    box-shadow: 0px 5px 10px #151929;
 }
 .profile-dropdown{
     align-items: center;

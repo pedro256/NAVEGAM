@@ -1,0 +1,76 @@
+.login-body{
+    padding-top: 5%;
+    background-color: #2a3550;
+    width: 100%;
+    padding-bottom: 15%;
+}
+.login-container{
+    width: 25%;
+    justify-content: center;
+    display: flex;
+    margin-bottom: 10rem;
+}
+.login-title h1{
+    font-size: 32px;
+    margin-bottom: 2.5rem;
+    color:#fff;
+    text-align: center;
+    width: max-content;
+}
+.row-login{
+    justify-content: center;
+}
+.card-login{
+    width: 80%;
+    border-radius: 10px;
+    padding-top: 48px;
+    padding-bottom: 24px;
+    padding-right: 34px;
+    padding-left: 34px;
+}
+.logo{
+    padding: 24px;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+.input-card{
+    background-color: rgb(224, 224, 224);
+    display: flex;
+    padding: 4px;
+    border-radius: 4px;
+    margin-bottom: 14px;
+}
+.input-card .input{
+    background-color: transparent;
+    border:none;
+    align-items: center;
+
+}
+.input-card .input:focus{
+    outline:none;
+    border:none;
+    box-shadow: none;
+}
+.input-card .ico{
+    justify-content: center;
+    margin: 4px 12px 4px ;
+    color: rgb(126, 120, 126);
+}
+.button-col{
+    text-align: center;
+}
+.button-col .mbutton-register{
+    border: rgb(36, 36, 36) solid 1px;
+    background-color: #fff;
+    color: rgb(36, 36, 36);
+}
+.button-col .mbutton-signin{
+    border: #1d8fa3 solid 1px;
+    background-color: #117a8d;
+    color: #fff;
+}
+.row-forgot-password{
+    padding-top: 14px;
+    text-align: center;
+}
