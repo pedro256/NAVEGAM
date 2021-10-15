@@ -26,7 +26,7 @@ function Login() {
                             <Input type="password" className="input" placeholder="Senha" />
                             <FaRegEyeSlash size={30} className="ico" />
                         </div>
-                        <Row>
+                        <Row className="login-button-group">
                             <Col md={6} sm={6} className="button-col">
                                 <Button className="mbutton-register">CADASTRAR</Button>
                             </Col>
